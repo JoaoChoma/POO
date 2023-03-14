@@ -26,6 +26,7 @@ package newpackage.exemploCarro;
         this.velocidadeAtual = 0;
         this.velocidadeMaxima = velocidadeMaxima;
     }
+    
 
     // métodos da classe
     public void acelerar(int incremento) {
