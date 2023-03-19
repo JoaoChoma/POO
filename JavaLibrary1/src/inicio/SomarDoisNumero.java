@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package newpackage;
+package inicio;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author joaochoma
  */
-public class ParImpar {
+public class SomarDoisNumero {
 
     /**
      * @param args the command line arguments
@@ -19,14 +19,14 @@ public class ParImpar {
         // TODO code application logic here
         Scanner scanner = new Scanner(System.in);
         
-        System.out.print("Digite um número inteiro: ");
-        int numero = scanner.nextInt();
+        System.out.print("Digite o primeiro valor: ");
+        int valor1 = scanner.nextInt();
         
-        if (numero % 2 == 0) {
-            System.out.println("O número " + numero + " é par.");
-        } else {
-            System.out.println("O número " + numero + " é ímpar.");
-        }
+        System.out.print("Digite o segundo valor: ");
+        int valor2 = scanner.nextInt();
+        
+        int resultado = valor1 + valor2;
+        System.out.println("A soma é: " + resultado);
     }
     
 }
