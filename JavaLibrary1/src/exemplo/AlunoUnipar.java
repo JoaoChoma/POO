@@ -18,11 +18,18 @@ public class AlunoUnipar {
         this.nome = nomeParametro;
     }
     
+    public void setNota(int notaParametro){
+        this.nota = notaParametro;
+    }
+    
     ///// get
     public String getNome(){
         return nome;
     }
     
+    public int getNota(){
+        return nota;
+    }
     
     
     
