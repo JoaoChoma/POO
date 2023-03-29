@@ -15,11 +15,18 @@ public class NewMain {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        AlunoUnipar joao = new AlunoUnipar("joao", "joao", 30); 
-        System.out.println("Nota: " + joao.getNota());
-        joao.estudar();
-        joao.fazerAtividade(5);
-        System.out.println("Nota: " + joao.getNota());
+        //AlunoUnipar joao = new AlunoUnipar("joao", "joao", 30); 
+        //System.out.println("Nota: " + joao.getNota());
+        //joao.estudar();
+        //joao.fazerAtividade(5);
+        //System.out.println("Nota: " + joao.getNota());
+        
+        
+        Produto[] vetorProdutos = new Produto[5];
+        
+        vetorProdutos[1].setNome("joao");
+        System.out.println(vetorProdutos[1].getNome());
+        
     }
     
 }

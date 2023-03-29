@@ -16,13 +16,13 @@ public class AlunoUnipar {
     int nota = 0;
     String curso;
     
-    
+    //acao
     public void estudar(){
         if(this.nota <= 10){
             this.nota = nota + 1;
         }
     }
-    
+    //acao
     public void fazerAtividade(int pontos){
         if(this.nota <= 10){
             this.nota = nota + pontos;
