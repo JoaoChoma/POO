@@ -30,7 +30,7 @@ public class NewMain {
         e.adicionar(p4);
         
         // objeto do tipo Produto
-        //Produto respostaConsulta = e.consultar("joao").getNome();
+        String respostaConsulta = e.consultar("joao").getNome();
         //System.out.println(respostaConsulta.toString());
     }
     
