@@ -21,11 +21,14 @@ public class NewMain {
         //joao.fazerAtividade(5);
         //System.out.println("Nota: " + joao.getNota());
         
+        Produto p = new Produto("leite",10.00,100);
+        Estoque e = new Estoque();
+        e.adicionarProduto(p);
         
-        Produto[] vetorProdutos = new Produto[5];
+        //Produto[] vetorProdutos = new Produto[5];
         
-        vetorProdutos[1].setNome("joao");
-        System.out.println(vetorProdutos[1].getNome());
+        //vetorProdutos[1].setNome("joao");
+        //System.out.println(vetorProdutos[1].getNome());
         
     }
     
