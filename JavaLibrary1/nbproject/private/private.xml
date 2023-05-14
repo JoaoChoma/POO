@@ -5,15 +5,27 @@
         <group>
             <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/aula05/Produto.java</file>
             <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/sobrecarga/Calculadorav2.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/abstrata/Jogador.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/lampada/ExecutarLampada.java</file>
             <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/sobrecarga/exemplo/Calculadora.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/abstrata/Entidade.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/sobrecarga/exemplo1/ExecutarCalculadora.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/lampada/LampadaJaLigadaException.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/aula05/NewMain.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/sobrecarga/NewMain.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/aula05/Estoque.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/lampada/LampadaJaDesligadaException.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/tratamentoExcecao/Tratamento.java</file>
             <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/sobrecarga/Calculadora.java</file>
             <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/sobrecarga/exemplo/CalculadoraMain.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/aula05/NewMain.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/sobrecarga/exemplo1/Calculadora.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/abstrata/Adivinhar.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/abstrata/NewMain.java</file>
             <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/heranca1/Pessoa.java</file>
             <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/associacao/Pessoa.java</file>
             <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/associacao/Endereco.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/sobrecarga/NewMain.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/aula05/Estoque.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/tratamentoExcecao/Divisao.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/lampada/Lampada.java</file>
         </group>
     </open-files>
 </project-private>

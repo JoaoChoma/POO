@@ -20,6 +20,10 @@ public class NewMain {
       System.out.println("Subtração: " + calc.subtrair());
       System.out.println("Multiplicação: " + calc.multiplicar());
       System.out.println("Divisão: " + calc.dividir());
+      
+      Calculadora calc2 = new Calculadora();
+        System.out.println(calc2.soma(10, 10));
+        System.out.println(calc2.soma(10.5, 10.5));
   
     }
     
