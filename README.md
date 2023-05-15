@@ -9,3 +9,7 @@ https://forms.gle/TEpS2wr1fYDJPoYs5
 # Drive com conteúdo
 
 https://drive.google.com/drive/folders/1KPkR194czTQLC2KYCI-rnucTLcfGgFc-?usp=share_link
+
+# Entrega atividade CRUD - Aula 14
+
+https://forms.gle/HGf9kX1YxSUk9NsJ7
