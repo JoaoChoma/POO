@@ -3,23 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/agendaContatos/AgendaApp.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/lampada/ExecutarLampada.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/crud2/Executor.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/jogoDaVelha/Jogador.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/jogoDaVelha1/Tabuleiro.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/jogoDaVelha1/Jogar.java</file>
+            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/jogoDaVelha1/Jogador.java</file>
             <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/jogoDaVelha/Tabuleiro.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/lampada/LampadaJaLigadaException.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/listaAula05/Produto.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/heranca1/Aluno.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/heranca/NewMain.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/heranca1/NewMain.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/lampada/LampadaJaDesligadaException.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/jogoDaVelha/Jogar.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/listaAula05/NewMain.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/associacao/Endereco.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/associacao/Pessoa.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/heranca1/Pessoa.java</file>
-            <file>file:/Users/joaochoma/Documents/GitHub/POO/JavaLibrary1/src/lampada/Lampada.java</file>
         </group>
     </open-files>
 </project-private>
