@@ -13,7 +13,7 @@ import java.util.List;
  */
 public class ProdutoDAO {
     // atributo
-    private List<Produto> produtos;
+    private List<Produto> produtos;  // banco dados
 
     public ProdutoDAO() {
         produtos = new ArrayList<>();

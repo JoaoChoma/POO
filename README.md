@@ -13,3 +13,14 @@ https://drive.google.com/drive/folders/1KPkR194czTQLC2KYCI-rnucTLcfGgFc-?usp=sha
 # Entrega atividade CRUD - Aula 14
 
 https://forms.gle/HGf9kX1YxSUk9NsJ7
+
+
+# LISTA DE ATIVIDADES P2
+
+https://docs.google.com/spreadsheets/d/1-k3VJauCwQjSYed7FsAsZfafBPrkRNQlTUHORbDbqbM/edit?usp=sharing
+
+
+# SIMULADO P2
+
+https://forms.gle/NWKtzJUkEW65XiUL7
+
