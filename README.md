@@ -24,3 +24,8 @@ https://docs.google.com/spreadsheets/d/1-k3VJauCwQjSYed7FsAsZfafBPrkRNQlTUHORbDb
 
 https://forms.gle/NWKtzJUkEW65XiUL7
 
+
+# OFICINA
+
+https://joaochoma.notion.site/OFICINA-Desenvolvendo-uma-aplica-o-Web-com-Java-5a1d863799804fdf9d353c6d82eb701d?pvs=4
+
