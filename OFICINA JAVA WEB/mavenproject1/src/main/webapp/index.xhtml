@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+<h:head>
+    <title>Cadastro de Alunos</title>
+</h:head>
+<h:body>
+    <h:form>
+        <h:panelGrid columns="2">
+            <h:outputLabel for="nomeInput" value="Nome:"/>
+            <h:inputText id="nomeInput" value="#{controleAluno.aluno.nome}"/>
+
+            <h:outputLabel for="raInput" value="RA:"/>
+            <h:inputText id="raInput" value="#{controleAluno.aluno.ra}"/>
+        </h:panelGrid>
+
+        <h:commandButton value="Adicionar" action="#{controleAluno.adicionarAluno(controleAluno.aluno)}"/>
+
+        <h2>Alunos Registrados</h2>
+        <h:dataTable value="#{controleAluno.listaAlunos}" var="aluno">
+            <h:column>
+                #{aluno.nome}
+            </h:column>
+            <h:column>
+                #{aluno.ra}
+            </h:column>
+            <h:column>
+                <h:commandLink value="Excluir" action="#{controleAluno.removerAluno(aluno)}"/>
+            </h:column>
+        </h:dataTable>
+    </h:form>
+</h:body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+<h:head>
+    <title>Aluno</title>
+</h:head>
+<h:body>
+    <h:form>
+        <h:outputLabel for="nomeInput" value="Nome: " />
+        <h:inputText id="nomeInput" value="#{alunoControle.aluno.nome}" />
+        <br/>
+        <h:outputLabel for="nomeInput" value="R.A.: " />
+        <h:inputText id="raInput" value="#{alunoControle.aluno.ra}"/>
+        <br/>
+        <h:commandButton value="Salvar" action="#{alunoControle.salvar}" />
+    </h:form>
+</h:body>
+</html>
